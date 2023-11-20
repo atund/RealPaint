@@ -1,0 +1,10 @@
+E:\study\Hk1\OOP\RealPaint\bin\Debug\RealPaint.exe.config
+E:\study\Hk1\OOP\RealPaint\bin\Debug\RealPaint.exe
+E:\study\Hk1\OOP\RealPaint\bin\Debug\RealPaint.pdb
+E:\study\Hk1\OOP\RealPaint\obj\Debug\RealPaint.csproj.AssemblyReference.cache
+E:\study\Hk1\OOP\RealPaint\obj\Debug\RealPaint.Form1.resources
+E:\study\Hk1\OOP\RealPaint\obj\Debug\RealPaint.Properties.Resources.resources
+E:\study\Hk1\OOP\RealPaint\obj\Debug\RealPaint.csproj.GenerateResource.cache
+E:\study\Hk1\OOP\RealPaint\obj\Debug\RealPaint.csproj.CoreCompileInputs.cache
+E:\study\Hk1\OOP\RealPaint\obj\Debug\RealPaint.exe
+E:\study\Hk1\OOP\RealPaint\obj\Debug\RealPaint.pdb
